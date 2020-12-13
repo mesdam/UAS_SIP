@@ -1,0 +1,886 @@
+# Copyright (C) 2020 ThemeGrill
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Explore 1.1.4\n"
+"Report-Msgid-Bugs-To: themegrill@gmail.com\n"
+"POT-Creation-Date: 2020-08-17 05:01:48+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2020-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"X-Generator: grunt-wp-i18n 0.5.4\n"
+
+#: 404.php:21
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:23
+msgid "It looks like nothing was found at this location. Try the search below."
+msgstr ""
+
+#: comments.php:31
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:38 comments.php:55
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:39 comments.php:56
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:40 comments.php:57
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr ""
+
+#: content-blog-full-content.php:38 content-page.php:30 content-single.php:45
+msgid "Pages:"
+msgstr ""
+
+#: content-blog-image-large.php:40 content-blog-image-medium.php:38
+#: content.php:45 inc/widgets/widgets.php:240
+msgid "Read more"
+msgstr ""
+
+#: content-page.php:39 inc/functions.php:632 inc/functions.php:668
+msgid "Edit"
+msgstr ""
+
+#: content-single.php:38
+msgid "Tagged on: "
+msgstr ""
+
+#: functions.php:88
+msgid "Social Menu"
+msgstr ""
+
+#: functions.php:89
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:90
+msgid "Footer Menu"
+msgstr ""
+
+#: header.php:43
+msgid "Skip to content"
+msgstr ""
+
+#: inc/admin/class-explore-admin.php:38
+msgid "Processing..."
+msgstr ""
+
+#: inc/admin/class-explore-dashboard.php:41
+#. translators: %s: Theme Name.
+msgid "%s Options"
+msgstr ""
+
+#: inc/admin/class-explore-dashboard.php:68
+#. translators: %s: Theme version.
+msgid "Explore %s"
+msgstr ""
+
+#: inc/admin/class-explore-dashboard.php:77
+#. translators: %s: Theme Name.
+msgid "Welcome to %s!"
+msgstr ""
+
+#: inc/admin/class-explore-dashboard.php:83
+#. translators: %s: Theme Name.
+msgid "Important links to get you started with %s"
+msgstr ""
+
+#: inc/admin/class-explore-dashboard.php:89
+msgid "Get Started"
+msgstr ""
+
+#: inc/admin/class-explore-dashboard.php:92
+msgid "Learn Basics"
+msgstr ""
+
+#: inc/admin/class-explore-dashboard.php:97
+msgid "Next Steps"
+msgstr ""
+
+#: inc/admin/class-explore-dashboard.php:99 inc/customizer.php:45
+msgid "Documentation"
+msgstr ""
+
+#: inc/admin/class-explore-dashboard.php:100
+msgid "Starter Demos"
+msgstr ""
+
+#: inc/admin/class-explore-dashboard.php:105
+msgid "Further Actions"
+msgstr ""
+
+#: inc/admin/class-explore-dashboard.php:107
+#: inc/admin/class-explore-theme-review-notice.php:95
+msgid "Got theme support question?"
+msgstr ""
+
+#: inc/admin/class-explore-dashboard.php:108
+msgid "Leave a review"
+msgstr ""
+
+#: inc/admin/class-explore-theme-review-notice.php:68
+#. Translators: %1$s current user display name.
+msgid ""
+"Howdy, %1$s! It seems that you have been using this theme for more than 15 "
+"days. We hope you are happy with everything that the theme has to offer. If "
+"you can spare a minute, please help us by leaving a 5-star review on "
+"WordPress.org.  By spreading the love, we can continue to develop new "
+"amazing features in the future, for free!"
+msgstr ""
+
+#: inc/admin/class-explore-theme-review-notice.php:80
+msgid "Sure"
+msgstr ""
+
+#: inc/admin/class-explore-theme-review-notice.php:85
+msgid "Maybe later"
+msgstr ""
+
+#: inc/admin/class-explore-theme-review-notice.php:90
+msgid "I already did"
+msgstr ""
+
+#: inc/admin/class-explore-welcome-notice.php:26
+msgid "Get started with Explore"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Explore"
+msgstr ""
+
+#: inc/admin/class-explore-welcome-notice.php:54
+#. translators: 1: welcome page link starting html tag, 2: welcome page link
+#. ending html tag.
+msgid ""
+"Welcome! Thank you for choosing Explore! To fully take advantage of the "
+"best our theme can offer please make sure you visit our %1$swelcome "
+"page%2$s."
+msgstr ""
+
+#: inc/admin/class-explore-welcome-notice.php:63
+msgid ""
+"Clicking the button will install and activate the ThemeGrill demo importer "
+"plugin."
+msgstr ""
+
+#: inc/admin/class-explore-welcome-notice.php:77
+msgid "Action failed. Please refresh the page and retry."
+msgstr ""
+
+#: inc/admin/class-explore-welcome-notice.php:81
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: inc/admin/meta-boxes.php:16 inc/admin/meta-boxes.php:18
+msgid "Select Layout"
+msgstr ""
+
+#: inc/admin/meta-boxes.php:28
+msgid "Default Layout"
+msgstr ""
+
+#: inc/admin/meta-boxes.php:33 inc/widgets/widgets.php:18
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/admin/meta-boxes.php:38 inc/widgets/widgets.php:29
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/admin/meta-boxes.php:43
+msgid "Both Sidebar"
+msgstr ""
+
+#: inc/admin/meta-boxes.php:48
+msgid "No Sidebar Full Width"
+msgstr ""
+
+#: inc/admin/meta-boxes.php:53
+msgid "No Sidebar Content Centered"
+msgstr ""
+
+#: inc/customizer.php:41
+msgid "Free Support"
+msgstr ""
+
+#: inc/customizer.php:49
+msgid "View Demo"
+msgstr ""
+
+#: inc/customizer.php:53
+msgid "Rate this theme"
+msgstr ""
+
+#: inc/customizer.php:61
+msgid "If you like our work. Buy us a beer."
+msgstr ""
+
+#: inc/customizer.php:76
+msgid "About Explore"
+msgstr ""
+
+#: inc/customizer.php:98
+msgid "Header Options"
+msgstr ""
+
+#: inc/customizer.php:110
+msgid "Choose the option that you want."
+msgstr ""
+
+#: inc/customizer.php:113
+msgid "Header Logo Only"
+msgstr ""
+
+#: inc/customizer.php:114
+msgid "Header Text Only"
+msgstr ""
+
+#: inc/customizer.php:115
+msgid "Show Both"
+msgstr ""
+
+#: inc/customizer.php:116
+msgid "Disable"
+msgstr ""
+
+#: inc/customizer.php:123
+msgid "Sticky Menu"
+msgstr ""
+
+#: inc/customizer.php:135
+msgid "Check to make the primary menu sticky."
+msgstr ""
+
+#: inc/customizer.php:143
+msgid "Header Image Position"
+msgstr ""
+
+#: inc/customizer.php:155
+msgid "Choose top header image display position."
+msgstr ""
+
+#: inc/customizer.php:158
+msgid ""
+"Position Above (Default): Display the Header image just above the site "
+"title and main menu part."
+msgstr ""
+
+#: inc/customizer.php:159
+msgid ""
+"Position Below: Display the Header image just below the site title and main "
+"menu part."
+msgstr ""
+
+#: inc/customizer.php:166
+msgid "Responsive Menu Style"
+msgstr ""
+
+#: inc/customizer.php:176
+msgid "Switch to new responsive menu"
+msgstr ""
+
+#: inc/customizer.php:186
+msgid "Design Options"
+msgstr ""
+
+#: inc/customizer.php:192
+msgid "Site Layout"
+msgstr ""
+
+#: inc/customizer.php:205
+msgid "Choose your site layout. The change is reflected in whole site."
+msgstr ""
+
+#: inc/customizer.php:207
+msgid "Boxed layout"
+msgstr ""
+
+#: inc/customizer.php:208
+msgid "Wide layout"
+msgstr ""
+
+#: inc/customizer.php:276
+msgid "Default layout"
+msgstr ""
+
+#: inc/customizer.php:288
+msgid ""
+"Select default layout. This layout will be reflected in whole site "
+"archives, search etc. The layout for a single post and page can be "
+"controlled from below options."
+msgstr ""
+
+#: inc/customizer.php:303
+msgid "Default layout for pages only"
+msgstr ""
+
+#: inc/customizer.php:315
+msgid ""
+"Select default layout for pages. This layout will be reflected in all pages "
+"unless unique layout is set for specific page."
+msgstr ""
+
+#: inc/customizer.php:330
+msgid "Default layout for single posts only"
+msgstr ""
+
+#: inc/customizer.php:342
+msgid ""
+"Select default layout for single posts. This layout will be reflected in "
+"all single posts unless unique layout is set for specific post."
+msgstr ""
+
+#: inc/customizer.php:357
+msgid "Blog Posts display type"
+msgstr ""
+
+#: inc/customizer.php:369
+msgid "Choose the display type for your blog or category page"
+msgstr ""
+
+#: inc/customizer.php:371
+msgid "Large image and summary text"
+msgstr ""
+
+#: inc/customizer.php:372
+msgid "Medium image and summary text"
+msgstr ""
+
+#: inc/customizer.php:373
+msgid "Alternate position medium image and summary text"
+msgstr ""
+
+#: inc/customizer.php:374
+msgid "Large image and full content"
+msgstr ""
+
+#: inc/customizer.php:382
+msgid "Primary color option"
+msgstr ""
+
+#: inc/customizer.php:395
+msgid ""
+"This will reflect in links, buttons and many others. Choose a color to "
+"match your site."
+msgstr ""
+
+#: inc/customizer.php:403
+msgid "Color Skin"
+msgstr ""
+
+#: inc/customizer.php:415
+msgid "Choose the light or dark skin. This will be reflected in whole site."
+msgstr ""
+
+#: inc/customizer.php:419
+msgid "Light"
+msgstr ""
+
+#: inc/customizer.php:420
+msgid "Dark"
+msgstr ""
+
+#: inc/customizer.php:428
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/customizer.php:441
+msgid "Write your custom CSS code here and design live."
+msgstr ""
+
+#: inc/customizer.php:451
+msgid "Additional Options"
+msgstr ""
+
+#: inc/customizer.php:458
+msgid "Related Posts"
+msgstr ""
+
+#: inc/customizer.php:470
+msgid "Check to activate the related posts."
+msgstr ""
+
+#: inc/customizer.php:483
+msgid "Related Posts To Be Shown As:"
+msgstr ""
+
+#: inc/customizer.php:487
+msgid "Related Posts By Categories"
+msgstr ""
+
+#: inc/customizer.php:488
+msgid "Related Posts By Tags"
+msgstr ""
+
+#: inc/customizer.php:495
+msgid "Remove Featured Image"
+msgstr ""
+
+#: inc/customizer.php:507
+msgid "Check to disable the featured images in single post."
+msgstr ""
+
+#: inc/customizer.php:515
+msgid "Author Bio"
+msgstr ""
+
+#: inc/customizer.php:527
+msgid "Check to enable the Author Bio in single post."
+msgstr ""
+
+#: inc/customizer.php:536
+msgid "Slider Options"
+msgstr ""
+
+#: inc/customizer.php:543
+msgid "Activate slider"
+msgstr ""
+
+#: inc/customizer.php:545
+msgid ""
+"In order to show a slider, you must have the featured image associated with "
+"the respective page choosen from below option."
+msgstr ""
+
+#: inc/customizer.php:557
+msgid "Check to activate slider."
+msgstr ""
+
+#: inc/customizer.php:574
+msgid "Slider #"
+msgstr ""
+
+#: inc/customizer.php:585
+msgid "Slider Page "
+msgstr ""
+
+#: inc/customizer.php:598
+msgid "Enter the first button text."
+msgstr ""
+
+#: inc/customizer.php:599
+msgid "When this field is empty, Read More button is shown."
+msgstr ""
+
+#: inc/customizer.php:610
+msgid "Enter link to redirect for the first button."
+msgstr ""
+
+#: inc/customizer.php:611
+msgid ""
+"When this field is empty, the link will be redirected default to the page "
+"link."
+msgstr ""
+
+#: inc/customizer.php:623
+msgid "Enter the second button text."
+msgstr ""
+
+#: inc/customizer.php:634
+msgid "Enter link to redirect for the second button."
+msgstr ""
+
+#: inc/functions.php:371
+msgid "Post navigation"
+msgstr ""
+
+#: inc/functions.php:381
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: inc/functions.php:385
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/functions.php:411
+msgid "Pingback:"
+msgstr ""
+
+#: inc/functions.php:411
+msgid "(Edit)"
+msgstr ""
+
+#: inc/functions.php:426
+msgid "Post author"
+msgstr ""
+
+#: inc/functions.php:429
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: inc/functions.php:431
+msgid "<a class=\"comment-permalink\" href=\"%1$s\">Permalink</a>"
+msgstr ""
+
+#: inc/functions.php:437
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/functions.php:443
+msgid "Reply"
+msgstr ""
+
+#: inc/functions.php:467
+msgid "WordPress"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "ThemeGrill"
+msgstr ""
+
+#: inc/functions.php:471
+msgid "Copyright &copy; %1$s %2$s. All rights reserved."
+msgstr ""
+
+#: inc/functions.php:471
+msgid "Powered by %s."
+msgstr ""
+
+#: inc/functions.php:471
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: inc/functions.php:621
+msgid ""
+"<span class=\"posted-on\"><a href=\"%1$s\" title=\"%2$s\" "
+"rel=\"bookmark\">%3$s</a></span>"
+msgstr ""
+
+#: inc/functions.php:629
+msgid "0 <i class=\"fa fa-comment\"></i>"
+msgstr ""
+
+#: inc/functions.php:629
+msgid "1 <i class=\"fa fa-comment\"></i>"
+msgstr ""
+
+#: inc/functions.php:629
+msgid "% <i class=\"fa fa-comments\"></i>"
+msgstr ""
+
+#: inc/functions.php:666
+msgid "No Comments"
+msgstr ""
+
+#: inc/functions.php:666
+msgid "1 Comment"
+msgstr ""
+
+#: inc/functions.php:666
+msgid "% Comments"
+msgstr ""
+
+#: inc/functions.php:666
+msgid "Comments Off"
+msgstr ""
+
+#: inc/header-functions.php:128
+msgid "Read More"
+msgstr ""
+
+#: inc/header-functions.php:174
+msgid "Author: %s"
+msgstr ""
+
+#: inc/header-functions.php:182
+msgid "Day: %s"
+msgstr ""
+
+#: inc/header-functions.php:185
+msgid "Month: %s"
+msgstr ""
+
+#: inc/header-functions.php:188
+msgid "Year: %s"
+msgstr ""
+
+#: inc/header-functions.php:191
+msgid "Asides"
+msgstr ""
+
+#: inc/header-functions.php:194
+msgid "Images"
+msgstr ""
+
+#: inc/header-functions.php:197
+msgid "Videos"
+msgstr ""
+
+#: inc/header-functions.php:200
+msgid "Quotes"
+msgstr ""
+
+#: inc/header-functions.php:203
+msgid "Links"
+msgstr ""
+
+#: inc/header-functions.php:206
+msgid "Gallery"
+msgstr ""
+
+#: inc/header-functions.php:209
+msgid "Chat"
+msgstr ""
+
+#: inc/header-functions.php:212
+msgid "Audio"
+msgstr ""
+
+#: inc/header-functions.php:215
+msgid "Status"
+msgstr ""
+
+#: inc/header-functions.php:218
+msgid "Archives"
+msgstr ""
+
+#: inc/header-functions.php:223
+msgid "Page NOT Found"
+msgstr ""
+
+#: inc/header-functions.php:226
+msgid "Search Results"
+msgstr ""
+
+#: inc/header-functions.php:259
+msgid "You are here:"
+msgstr ""
+
+#: inc/related-posts.php:17
+msgid "You May Also Like"
+msgstr ""
+
+#: inc/related-posts.php:45
+msgid ""
+"<span class=\"posted-on\"><a href=\"%1$s\" title=\"%2$s\" "
+"rel=\"bookmark\"><i class=\"fa fa-calendar-o\"></i> %3$s</a></span>"
+msgstr ""
+
+#: inc/widgets/widgets.php:20
+msgid "Shows widgets at Right side."
+msgstr ""
+
+#: inc/widgets/widgets.php:31
+msgid "Shows widgets at Left side."
+msgstr ""
+
+#: inc/widgets/widgets.php:40
+msgid "Header Sidebar One"
+msgstr ""
+
+#: inc/widgets/widgets.php:42
+msgid "Shows widgets in header section one."
+msgstr ""
+
+#: inc/widgets/widgets.php:51
+msgid "Header Sidebar Two"
+msgstr ""
+
+#: inc/widgets/widgets.php:53
+msgid "Shows widgets in header section two."
+msgstr ""
+
+#: inc/widgets/widgets.php:62
+msgid "Header Sidebar Three"
+msgstr ""
+
+#: inc/widgets/widgets.php:64
+msgid "Shows widgets in header section three."
+msgstr ""
+
+#: inc/widgets/widgets.php:73
+msgid "Business Sidebar"
+msgstr ""
+
+#: inc/widgets/widgets.php:75
+msgid "Shows widgets in the business sidebar page area."
+msgstr ""
+
+#: inc/widgets/widgets.php:84
+msgid "Contact Page Sidebar"
+msgstr ""
+
+#: inc/widgets/widgets.php:86
+msgid "Shows widgets on Contact Page Template."
+msgstr ""
+
+#: inc/widgets/widgets.php:95
+msgid "Error 404 Page Sidebar"
+msgstr ""
+
+#: inc/widgets/widgets.php:97
+msgid "Shows widgets on Error 404 page."
+msgstr ""
+
+#: inc/widgets/widgets.php:106
+msgid "Footer Sidebar One"
+msgstr ""
+
+#: inc/widgets/widgets.php:108
+msgid "Shows widgets at footer sidebar one."
+msgstr ""
+
+#: inc/widgets/widgets.php:117
+msgid "Footer Sidebar Two"
+msgstr ""
+
+#: inc/widgets/widgets.php:119
+msgid "Shows widgets at footer sidebar two."
+msgstr ""
+
+#: inc/widgets/widgets.php:128
+msgid "Footer Sidebar Three"
+msgstr ""
+
+#: inc/widgets/widgets.php:130
+msgid "Shows widgets at footer sidebar three."
+msgstr ""
+
+#: inc/widgets/widgets.php:139
+msgid "Footer Sidebar Four"
+msgstr ""
+
+#: inc/widgets/widgets.php:141
+msgid "Shows widgets at footer sidebar four."
+msgstr ""
+
+#: inc/widgets/widgets.php:159
+msgid "Display some of the pages as services."
+msgstr ""
+
+#: inc/widgets/widgets.php:161
+msgid "TG: Services"
+msgstr ""
+
+#: inc/widgets/widgets.php:177
+msgid "Page"
+msgstr ""
+
+#: navigation.php:22
+msgid "&laquo; Previous"
+msgstr ""
+
+#: navigation.php:23
+msgid "Next &raquo;"
+msgstr ""
+
+#: navigation.php:34
+msgid "&larr; Previous"
+msgstr ""
+
+#: navigation.php:35
+msgid "Next &rarr;"
+msgstr ""
+
+#: no-results.php:18
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: no-results.php:22
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: no-results.php:27
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: searchform.php:12 searchform.php:13
+msgid "Search"
+msgstr ""
+
+#: sidebar-left.php:18 sidebar.php:36
+msgid "Example Widget"
+msgstr ""
+
+#: sidebar-left.php:19
+msgid ""
+"This is an example widget to show how the Left sidebar looks by default. "
+"You can add custom widgets from the %swidgets screen%s in the admin. If "
+"custom widgets are added then this will be replaced by those widgets."
+msgstr ""
+
+#: sidebar.php:14
+msgid "Right"
+msgstr ""
+
+#: sidebar.php:20
+msgid "Left"
+msgstr ""
+
+#: sidebar.php:29
+msgid "Contact Page"
+msgstr ""
+
+#: sidebar.php:37
+msgid ""
+"This is an example widget to show how the %s sidebar looks by default. You "
+"can add custom widgets from the %swidgets screen%s in the admin. If custom "
+"widgets are added then this will be replaced by those widgets."
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://themegrill.com/themes/explore"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Explore is an incredibly flexible multipurpose responsive theme coded & "
+"designed with a lot of care and love."
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://themegrill.com"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Business Template"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Contact Page Template"
+msgstr ""
+
+#: inc/functions.php:30
+#. Translators: If there are characters in your language that are not supported
+#. by PT Sans, translate this to 'off'. Do not translate into your own
+#. language.
+msgctxt "PT Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/functions.php:38
+#. Translators: To add an additional character subset specific to your
+#. language, translate this to 'cyrillic'. Do not translate into your own
+#. language.
+msgctxt "Add new subset (cyrillic)"
+msgid "no-subset"
+msgstr ""
+
+#: inc/functions.php:375 navigation.php:42
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr ""
+
+#: inc/functions.php:376 navigation.php:43
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr ""

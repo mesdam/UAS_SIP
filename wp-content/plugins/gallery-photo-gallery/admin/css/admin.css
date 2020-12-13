@@ -1,0 +1,22 @@
+ul.ays-wp-notice-answers{
+    list-style-type: none;
+}
+
+#adminmenu li.toplevel_page_gallery-photo-gallery .wp-menu-image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#adminmenu li.toplevel_page_gallery-photo-gallery .wp-menu-image img{
+    width: 32px;
+    padding: 2px;
+    transition: .3s ease-in-out;
+}
+#adminmenu li.toplevel_page_gallery-photo-gallery ul.wp-submenu.wp-submenu-wrap li a {
+    transition: .3s ease-in-out;
+}
+
+#adminmenu li.toplevel_page_gallery-photo-gallery ul.wp-submenu.wp-submenu-wrap li:nth-last-child(2) a,
+#adminmenu li.toplevel_page_gallery-photo-gallery ul.wp-submenu.wp-submenu-wrap li:last-child a {
+    color: #f50057;
+}

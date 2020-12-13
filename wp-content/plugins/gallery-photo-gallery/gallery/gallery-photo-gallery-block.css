@@ -1,0 +1,21 @@
+select.ays_gpg_block_select {
+    text-align: center;
+    font-size: 18px;
+    width: 100%;
+    height: auto;
+    padding: 5px;
+}
+.ays_gpg_block_container select {
+    width: 100%;
+    margin: 0;
+}
+
+.ays_gpg_block_container {
+    box-sizing: border-box;
+}
+.svg_shortcode { 
+    display: inline-block;
+    position: relative;
+    top: 6px;
+    color: #666;
+} 

@@ -1,0 +1,292 @@
+# Translation of Themes - Masonic in Indonesian
+# This file is distributed under the same license as the Themes - Masonic package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-05-16 06:24:52+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: id\n"
+"Project-Id-Version: Themes - Masonic\n"
+
+#. Theme Name of the theme
+#: inc/admin/class-masonic-welcome-notice.php:46
+msgid "Masonic"
+msgstr "Masonic"
+
+#: inc/admin/class-masonic-theme-review-notice.php:95
+#: inc/admin/class-masonic-dashboard.php:107
+msgid "Got theme support question?"
+msgstr "Ada pertanyaan seputar bantuan tema?"
+
+#: inc/admin/class-masonic-dashboard.php:99
+msgid "Documentation"
+msgstr "Dokumentasi"
+
+#: inc/admin/class-masonic-welcome-notice.php:26
+msgid "Get started with Masonic"
+msgstr "Mulai Masonic"
+
+#: inc/admin/class-masonic-welcome-notice.php:81
+msgid "Cheatin&#8217; huh?"
+msgstr "Aneh huh?"
+
+#: inc/admin/class-masonic-welcome-notice.php:77
+msgid "Action failed. Please refresh the page and retry."
+msgstr "Gagal. Silahkan muat ulang laman dan coba lagi."
+
+#: inc/template-tags.php:111
+msgid "<div class=\"entry-date fa fa-clock-o\"><a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\">%3$s</a></div>"
+msgstr "<div class=\"entry-date fa fa-clock-o\"><a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\">%3$s</a></div>"
+
+#: sidebar.php:25
+msgid "Meta"
+msgstr "Meta"
+
+#: searchform.php:14
+msgid "Type and hit enter..."
+msgstr "Ketik dan tekan enter..."
+
+#: searchform.php:13
+msgid "Search for:"
+msgstr "Cari:"
+
+#: inc/template-tags.php:138
+msgid " %1$s"
+msgstr " %1$s"
+
+#: inc/template-tags.php:129
+msgid "% Comments"
+msgstr "% Komentar"
+
+#: inc/template-tags.php:129
+msgid "1 Comment"
+msgstr "1 Komentar"
+
+#: inc/template-tags.php:129
+msgid "No Comment"
+msgstr "Tidak Ada komentar"
+
+#: inc/template-tags.php:120 inc/template-tags.php:134
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:95
+msgid " "
+msgstr " "
+
+#: inc/template-tags.php:77
+msgctxt "Next post link"
+msgid "%title<span><i class=\"fa fa-arrow-circle-o-right\"></i></span>"
+msgstr "%title<span><i class=\"fa fa-arrow-circle-o-right\"></i></span>"
+
+#: inc/template-tags.php:76
+msgctxt "Previous post link"
+msgid "<span><i class=\"fa fa-arrow-circle-o-left\"></i></span>%title"
+msgstr "<span><i class=\"fa fa-arrow-circle-o-left\"></i></span>%title"
+
+#: inc/template-tags.php:74
+msgid "Post navigation"
+msgstr "Navigasi pos"
+
+#: inc/template-tags.php:44
+msgid "Next <span><i class=\"fa fa-arrow-circle-o-right\"></i></span>"
+msgstr "Selanjutnya <span><i class=\"fa fa-arrow-circle-o-right\"></i></span>"
+
+#: inc/template-tags.php:40
+msgid "<span><i class=\"fa fa-arrow-circle-o-left\"></i></span> Previous"
+msgstr "<span><i class=\"fa fa-arrow-circle-o-left\"></i></span> Sebelumnya"
+
+#: inc/template-tags.php:36
+msgid "Newer posts <span><i class=\"fa fa-arrow-circle-o-right\"></i></span>"
+msgstr "Pos terbaru <span><i class=\"fa fa-arrow-circle-o-right\"></i></span>"
+
+#: inc/template-tags.php:32
+msgid "<span><i class=\"fa fa-arrow-circle-o-left\"></i></span> Older posts"
+msgstr "<span><i class=\"fa fa-arrow-circle-o-left\"></i></span> Post terdahulu"
+
+#: inc/template-tags.php:25
+msgid "Posts navigation"
+msgstr "Navigasi pos"
+
+#: inc/extras.php:92
+msgid "Search Results For: %s"
+msgstr "Hasil Pencarian untuk: %s"
+
+#: inc/extras.php:90
+msgid "404: Page Not Found"
+msgstr "404: Laman Tidak Ditemukan"
+
+#: sidebar.php:18 inc/extras.php:86
+msgid "Archives"
+msgstr "Arsip"
+
+#: inc/extras.php:83
+msgid "Year: %s"
+msgstr "Tahun: %s"
+
+#: inc/extras.php:80
+msgid "Month: %s"
+msgstr "Bulan: %s"
+
+#: inc/extras.php:77
+msgid "Day: %s"
+msgstr "Hari: %s"
+
+#: inc/extras.php:69
+msgid "Author: %s"
+msgstr "Penulis: %s"
+
+#: inc/extras.php:46
+msgid "Follow %s on Facebook"
+msgstr "Ikuti %s di Facebook"
+
+#: inc/extras.php:43
+msgid "Follow %s on Google+"
+msgstr "Ikuti %s di Google+"
+
+#: inc/extras.php:40
+msgid "Follow %s on Twitter"
+msgstr "Ikuti %s di Twitter"
+
+#: inc/customizer.php:139
+msgid "Add your custom css here and design live! (for advanced users)"
+msgstr "Tambahkan kustom css Anda disini dan desain langsung! (untuk pengguna tingkat lanjut)"
+
+#: inc/customizer.php:122
+msgid "Custom CSS"
+msgstr "Kustom CSS"
+
+#: inc/customizer.php:99
+msgid "Check to enable the cropping of the featured image in the blog/archive page, ie, if unchecked, the height will not be cropped."
+msgstr "Centang untuk menggunakan pemangkasan gambar andalan di laman blog/arsip, contoh, jika tidak dicentang, tinggi tidak akan dipasang."
+
+#: inc/customizer.php:86
+msgid "Featured Image Cropping"
+msgstr "Pemangkasan Gambar Andalan"
+
+#: inc/customizer.php:79
+msgid "Check to enable the search icon in menu."
+msgstr "Centang untuk mengaktifkan ikon pencarian di menu."
+
+#: inc/customizer.php:66
+msgid "Search Icon"
+msgstr "Ikon Pencarian"
+
+#: inc/customizer.php:37
+msgid "Link Color"
+msgstr "Warna Link"
+
+#: inc/customizer.php:32
+msgid "Primary Color"
+msgstr "Warna Utama"
+
+#: inc/custom-header.php:36
+msgid "Header Image"
+msgstr "Gambar Header"
+
+#: header.php:30
+msgid "Skip to content"
+msgstr "Lompat ke konten"
+
+#: functions.php:280
+msgid "Video URL"
+msgstr "URL Video"
+
+#: functions.php:239
+msgid "Theme: %2$s by %1$s"
+msgstr "Tema: %2$s oleh %1$s"
+
+#: functions.php:239
+msgid "Powered by %s"
+msgstr "Dipersembahkan oleh %s"
+
+#: functions.php:235
+msgid "WordPress"
+msgstr "WordPress"
+
+#: functions.php:137
+msgid "Footer Sidebar Three"
+msgstr "Sidebar Footer Tiga"
+
+#: functions.php:128
+msgid "Footer Sidebar Two"
+msgstr "Sidebar Footer Dua"
+
+#: functions.php:119
+msgid "Footer Sidebar One"
+msgstr "Sidebar Footer Satu"
+
+#: functions.php:110
+msgid "Right Sidebar"
+msgstr "Sidebar Kanan"
+
+#: functions.php:74
+msgid "Primary Menu"
+msgstr "Menu Utama"
+
+#: footer.php:42
+msgid "&copy; "
+msgstr "&copy;"
+
+#: content.php:48
+msgid "Read more"
+msgstr "Selengkapnya"
+
+#: content.php:44 content-single.php:35 content-page.php:19
+msgid "Pages:"
+msgstr "Laman:"
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Tampaknya kami tak bisa menemukan apa yang Anda inginkan. Mungkin pencarian bisa membantu."
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Maaf, tapi tak ada yang cocok dengan kata kunci pencarian Anda. Silakan coba lgi dengan kata kunci berbeda."
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Siap menerbitkan pos pertamamu? <a href=\"%1$s\">Mulailah disini</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Tidak Ditemukan"
+
+#: comments.php:65
+msgid "Comments are closed."
+msgstr "Komentar ditutup."
+
+#: comments.php:37 comments.php:55
+msgid "Newer Comments &rarr;"
+msgstr "Komentar Terbaru &rarr;"
+
+#: comments.php:36 comments.php:54
+msgid "&larr; Older Comments"
+msgstr "&larr; Komentar Terdahulu"
+
+#: comments.php:35 comments.php:53
+msgid "Comment navigation"
+msgstr "Navigasi komentar"
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Satu tanggapan untuk &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s tanggapan untuk &ldquo;%2$s&rdquo;"
+
+#: 404.php:18
+msgid "It looks like nothing was found at this location. Perhaps a search may help you."
+msgstr "Sepertinya tidak ada apa-apa disini. Mungkin pencarian dapat membantu Anda."
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ups! Laman tersebut tak ditemukan."
+
+#. Author of the theme
+#: functions.php:237
+msgid "ThemeGrill"
+msgstr "ThemeGrill"
